@@ -1,0 +1,27 @@
+
+che.png
+size: 379,294
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+che1
+  rotate: false
+  xy: 2, 176
+  size: 308, 116
+  orig: 308, 116
+  offset: 0, 0
+  index: -1
+chelun
+  rotate: true
+  xy: 301, 97
+  size: 77, 76
+  orig: 77, 76
+  offset: 0, 0
+  index: -1
+huowu
+  rotate: false
+  xy: 2, 2
+  size: 297, 172
+  orig: 297, 172
+  offset: 0, 0
+  index: -1

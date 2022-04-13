@@ -1,0 +1,17 @@
+﻿{
+    "1": {
+        "urlModel": "gameDrogWord_model",
+        "urlScene": "gameDrogWord_scene1",
+        "dataGame": {
+            "dataQues": {
+                "options": [
+                    { "title": "天", "index": 1 },
+                    { "title": "王", "index": 2 },
+                    { "title": "盖", "index": 3 },
+                    { "title": "地", "index": 4 },
+                    { "title": "虎", "index": 5 }
+                ]
+            }
+        }
+    }
+}
